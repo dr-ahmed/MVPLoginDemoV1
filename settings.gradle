@@ -1,0 +1,2 @@
+rootProject.name='MVPLoginDemoV1'
+include ':app'
